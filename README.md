@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>MI BIOGRAFIAr</title>
+<p><b>MI BIOGRAFIA,</b></p>
 </head>
 <body bgcolor=”F3C1C1”>
 <p><b>Bienvenido a este blog,</b></p>
