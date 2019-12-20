@@ -26,7 +26,7 @@
 	<title>Personal-Sanchez</title>
 	<script src="https://kit.fontawesome.com/12299708d4.js" crossorigin="anonymous"></script>
 </head>
-<body background="/assets/portfolio.png" style="background-color: #AB610F;"><div class="container header-contianer">
+<body background="/assets/portfolio.png" style="background-color: #AFBBA9;"><div class="container header-contianer">
     <img src= "image.png" style=" width:300px; height:300px;" > 
 	<div class="container-fluid">
 		<div class="row">
